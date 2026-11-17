@@ -1,3 +1,3 @@
 streamlit
 numpy
-pygame
+pygame-ce
